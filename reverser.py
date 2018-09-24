@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+# Author: https://github.com/theShaswato
 from urllib import urlencode
 from urllib2 import urlopen, Request, URLError, HTTPError
 from json import loads
