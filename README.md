@@ -3,7 +3,7 @@ A simple tool written in python to do reverse IP lookup using yougetsignal.com
 
 Usage:
 -----
-`python reverse.py` then enter the domain to check
+`python3 reverse.py` then enter the domain to check
 
 Limitation:
 ----------
